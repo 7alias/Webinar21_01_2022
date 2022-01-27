@@ -10,7 +10,7 @@ public class Car extends Transport {
     }
     void startEngine(int time){
         super.startEngine();
-        System.out.println("Vehicle is car");
+        System.out.println("Vehicle is a car");
 
     }
 }
